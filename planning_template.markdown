@@ -35,3 +35,4 @@
 * What supports do you need to make meaningful progress?
 * Which other challenges does this align with?
 * Who, inside and outside our community, can help you?
+* When you're unavailable (sick, leave, etc), who does this challenge belong to?
