@@ -1,4 +1,4 @@
-# Critical Challenges Planning
+# Apply
 
 ## The Challenge
 
