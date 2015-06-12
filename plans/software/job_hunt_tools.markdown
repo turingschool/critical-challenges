@@ -105,6 +105,7 @@ even do.
 
 - Academic: Interview preparedness
 - Software: augment job hunting process with new tools
+- Lifecycle:  prepare students for the job hunt with effective strategies, clear and realistic expectations, and an ability to represent the skills they’ve developed.
 
 * Who, inside and outside our community, can help you?
 
