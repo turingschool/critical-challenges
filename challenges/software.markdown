@@ -8,6 +8,5 @@
 * Mike: We need to develop a coherent, effective package of recommended tools and settings for students in the program.
 * Sam: We need the Apply app to offer a clear and error-free path for students to apply.
 * Sam: We need to the Apply app to provide metrics and an easy workflow for the operations team.
-* Horace: We need to augment the job hunting process with effective existing tools (both internal and external) and train
-staff and students to use them.
+* Horace: We need to augment the job hunting process with effective existing tools (both internal and external) and train staff and students to use them.
 * Horace: We need to effectively collect and report on employment data from recent grads and alumni.
