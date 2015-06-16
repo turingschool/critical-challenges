@@ -133,6 +133,16 @@ make this work.
 - Marissa, Daisha, Jeff. Probably lots of feedback from students along
   the way
 
+Update: Talked more with Marissa about this. She has been researching
+potential CRM options for managing data around student/alumni employment
+and job hunting.
+
+We still need to identify the right tool but this would be a big first
+step since we'd have places to put the data and a common interface
+around organizing it. Next challenges would be sourcing data from all of
+our existing (non-comprehensive) sources, and starting to engrain this
+workflow in students who are working on the job hunt.
+
 * When you're unavailable (sick, leave, etc), who does this challenge belong to?
 
 - Q: Probably marissa ends up managing lots of this tooling day to day
