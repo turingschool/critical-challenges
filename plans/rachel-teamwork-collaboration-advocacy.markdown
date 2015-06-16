@@ -27,7 +27,7 @@ I've anchored module 2?
 
 * What’s been done so far?
 
-Hardly anything. We have one class on git workflow, but no classes around conflict management, etc. 
+Hardly anything. We have one class on git workflow, but no classes around conflict management or encouraging students to think about and address their collaborative deficiencies, etc. 
 
 * Was it effective? How do you know?
 
@@ -35,7 +35,7 @@ The git workflow class seems to be effective in terms of teaching students how t
 
 * Was this someone’s challenge before you? Why did they stop doing it or how did we make progress without addressing it?
 
-Gear Up is somewhat related. 
+Gear Up is somewhat related. I think that Gear Up is a good way to address issues larger than Turing and interpersonal interactions at Turing, but since it's the entire school at one time, there's less accountability and time to address individual things. 
 
 ## The Present
 
@@ -43,11 +43,13 @@ Gear Up is somewhat related.
 
 -start researching strategies for teaching communication, listening, teamwork, and self-advocacy to adults
 -look for times in the module 2 schedule where these "soft skills" can be addressed on a regular basis
+-prepare readings and/or exercises for students to complete over intermission week
 
 * What will be the next three things you do?
 
+-gather readings and prepare exercises for intermission week
 -prepare class material for teamwork, collaboration, and self-advocacy
--teach classes
+-teach those classes
 -gather data relating to whether or not the classes are working
 
 * How will you keep track of progress and results?
@@ -77,13 +79,20 @@ Gear Up is somewhat related.
 
 * What would meaningful progress look like in 3 months? 6 months? 12 months?
 
+-Students are able to comfortably discuss their own collaborative deficiencies with staff and peers
+-Students are able to create goals and plans for addressing collaborative deficiencies
+-Students are able to "confront" other students and discuss problems and solutions relating to collaboration
+-Students are able to assist other students in creating goals and plans to address collaborative deficiencies
+
 * How feasible are each of those goals?
+
+-Very feasible. We'll have students create a gist before the module starts reflecting on collaborative strengths and weaknesses. Then each week, we'll set aside 30 minutes for a "mini-lesson" relating to each of the points in the last question. 
 
 ## The Periphery
 
 * What challenges are you going to stop working on to put time into this?
 
-? 
+-Unsure. 
 
 * What research/learning do you need to do to be effective at solving it?
 
@@ -91,7 +100,8 @@ Gear Up is somewhat related.
 
 * What supports do you need to make meaningful progress?
 
-?
+-enough time during the day to build in 30-minute "mini-lessons"
+-references relating to strategies for collaboration, teamwork, and self-advocacy
 
 * Which other challenges does this align with?
 
