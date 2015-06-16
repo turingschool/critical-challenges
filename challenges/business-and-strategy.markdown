@@ -7,7 +7,7 @@
 * Jeff: We need to make meaningful use of and have regular contact with our Board of Directors.
 * Heather: We need to develop the interpersonal skills and understandings of our team to create a healthy, strong, happy environment.
 * Heather & Jeff: We need to build and sustain an inclusive community comfortable with discussing and improving group culture.
-* Jeff: We need to pursue federal accreditation.
+* Raissa: We need to pursue federal accreditation.
 * Jeff: We need to build a culture and system of communication that delivers and values feedback within the team, from the team to students, from students to the team, and between students.
 * Jeff: We need to drive local, state, and national conversations about and policy around developer training to enhance our image as the preeminent developer training program.
 * Marissa: We need to pursue funding pipelines for help people afford our programs
