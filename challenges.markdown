@@ -11,7 +11,7 @@
 * Jorge: We need to provide students a solid beginning in JavaScript before they finish Module 3.
 * Steve: We need to increase the proficiencies in Module 4 so students are able to create components that work together to provide a single rich experience.
 * Steve: We need to enrich the curriculum and student experience with non-critical technologies and ideas.
-* Sam: We need to prepare students to write production-ready JavaScript.
+* (unclaimed): We need to prepare students to write production-ready JavaScript.
 * Rachel & Steve: We need to organize our instructional load and planning to ensure instructors have sufficient time to construct/refine excellent lesson plans.
 * Rachel & Steve: We need to build the team’s instructional skills/capacity to deliver highly effective lessons on a consistent basis.
 * Mike: We need to improve the onramp for students both before they start Module 1 and in the first few days of the module.
@@ -21,14 +21,14 @@
 
 ## Business and Strategy
 
-* Raissa: We need to facilitate the flow of funds in and out of the program through tuition collection, deferred tuition repayment, partner payments, fixed monthly expenses, variable monthly expenses, payroll, and strategic savings.
-* Raissa: We need to build and maintain a wonderful physical space that enables and encourages learning.
+* (unclaimed): We need to facilitate the flow of funds in and out of the program through tuition collection, deferred tuition repayment, partner payments, fixed monthly expenses, variable monthly expenses, payroll, and strategic savings.
+* (unclaimed): We need to build and maintain a wonderful physical space that enables and encourages learning.
 * Jeff: We need to leverage our existing/growing network of friends, contacts, and alumni to meaningfully impact Turing students.
 * Jeff: We need to determine the next academic and strategic leaps for Turing.
 * Jeff: We need to make meaningful use of and have regular contact with our Board of Directors.
 * Jeff: We need to develop the interpersonal skills and understandings of our team to create a healthy, strong, happy environment.
 * Jeff: We need to build and sustain an inclusive community comfortable with discussing and improving group culture.
-* Raissa: We need to pursue federal accreditation.
+* (unclaimed): We need to pursue federal accreditation.
 * Jeff: We need to build a culture and system of communication that delivers and values feedback within the team, from the team to students, from students to the team, and between students.
 * Jeff: We need to drive local, state, and national conversations about and policy around developer training to enhance our image as the preeminent developer training program.
 * Marissa: We need to pursue funding pipelines for help people afford our programs
@@ -53,7 +53,7 @@ staff and students to use them.
 * Daisha: We need to actively build the reputation of the program to provide inbound leads for students, staff, and student jobs through sharing our work, results, and philosophies.
 * Daisha & Jorge: We need to minimize the time between when an applicant submits their application and when they receive a decision.
 * Jorge: We need to find the applicants who possess the academic potential and characteristics necessary for community building and success in the program.
-* Raissa: When a student accepts we need to get them contracted, enrolled, and paid efficiently, quickly, and accurately.
+* (unclaimed): When a student accepts we need to get them contracted, enrolled, and paid efficiently, quickly, and accurately.
 * Marissa: We need to prepare students for the job hunt with effective strategies, clear and realistic expectations, and an ability to represent the skills they’ve developed.
 * Marissa: We need to build a network of hiring companies eager to hire our students both inside and outside of Colorado
 * Marissa: We need to build a strong and active alumni network that enables our future growth through reputation, performance, and financial support
